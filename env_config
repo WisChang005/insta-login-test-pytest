@@ -1,2 +1,6 @@
+# python path
+export PYTHONPATH=$(pwd)
+
+# IG username password
 export INSTA_ACCOUNT=""
 export INSTA_PASSWORD=""
